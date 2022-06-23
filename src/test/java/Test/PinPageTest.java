@@ -38,5 +38,8 @@ public class PinPageTest extends BestTest{
         zerodhaPinPage.clickOnContinue();
 	}
 	
-	
+	@Test
+	public void gittest() {
+		System.out.println("This is git test");
+	}
 }
